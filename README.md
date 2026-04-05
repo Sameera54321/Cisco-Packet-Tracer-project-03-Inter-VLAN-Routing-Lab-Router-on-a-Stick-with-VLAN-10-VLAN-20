@@ -81,3 +81,8 @@ Contributions are welcome! To extend this lab:
     Implement access control lists (ACLs) between VLANs.
 
     Open a pull request with a clear description.
+
+## 📜 License
+
+Distributed under the MIT License. See the LICENSE file for more information.
+Free to use, modify, and share for educational purposes.
